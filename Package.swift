@@ -5,7 +5,6 @@ let package = Package(
     name: "Hue",
     platforms: [
         .iOS(.v8),
-        .macOS(.v10_11),
         .tvOS(.v9),
     ],
     products: [
